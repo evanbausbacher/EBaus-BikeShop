@@ -1,5 +1,16 @@
 # EbausShop
 
+# Project Overview
+This Angular Web app was a fun side-project to explore Angular and potentially sell a plethora of old cycling gear. Screenshots of the site deployed are below. 
+
+![image](https://github.com/user-attachments/assets/4a763abe-9149-459f-b012-66b59670a48d)
+
+![image](https://github.com/user-attachments/assets/5a3ac5d3-b6c3-4c47-9380-c756a431bd1b)
+
+![image](https://github.com/user-attachments/assets/f9e53627-24ff-4862-92a8-16681ffa66c9)
+
+![image](https://github.com/user-attachments/assets/aff3ae1a-53f0-425e-ab8b-fd7326ee4197)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.4.
 
 ## Development server
